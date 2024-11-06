@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "../.next"
+		},
+		{
+			"path": "../components"
+		},
+		{
+			"path": "../data"
+		},
+		{
+			"path": "../node_modules"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../prisma"
+		},
+		{
+			"path": "../public"
+		},
+		{
+			"path": "../styles"
+		},
+		{
+			"path": "../types"
+		}
+	]
+}
